@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/"
-  to = "/your-main-file.html"
+  to = "/Default.html"
   status = 200
